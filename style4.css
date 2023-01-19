@@ -1,0 +1,25 @@
+.container {
+
+    position: relative;
+    background-color: rgb(175, 224, 175);
+    width:800px;
+    height: 700px;
+
+
+}
+
+.box {
+
+   background-color: black;
+   color:white;
+   width: 300px;
+   height: 150px;
+   position:relative;
+   text-align: center;
+   bottom: 550px;
+   padding: 80px;
+   left: 100px;
+}
+
+
+

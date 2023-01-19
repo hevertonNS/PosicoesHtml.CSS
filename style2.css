@@ -1,0 +1,22 @@
+.container {
+    width: 400px;
+    height: 400px;
+    background-color: bisque;
+    margin: 20px;
+    margin-left: 400px;
+    
+   
+}
+.box1 {
+    background-color: rgb(69, 69, 75);
+    position: fixed;
+    margin: 20px;
+    padding: 20px;
+    top: 15px;
+    width: 250px;
+    height: 70px;
+    text-align: center;
+    color: whitesmoke;
+
+
+}
